@@ -350,10 +350,6 @@ https://github.com/user-attachments/assets/011308cb-2ee0-4300-86f9-a54f8d5892a4
 
 
 
-**<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/19810002-8508-46bf-ad9b-b363525f4025" />**
-
-
-
 **<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/189a6795-4a54-4523-96c1-30f8b573b02a" />**
 
 
