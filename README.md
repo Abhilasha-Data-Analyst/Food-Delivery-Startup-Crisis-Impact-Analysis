@@ -157,7 +157,7 @@ This project analyzes the impact by comparing **Pre-Crisis (Jan–May 2025)** an
 
 
 
-### **10. Data Driven Insights (Business Storytelling)**
+### **10. Data Driven Insights**
 
 
 
