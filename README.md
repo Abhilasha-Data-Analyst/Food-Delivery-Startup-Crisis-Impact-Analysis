@@ -340,13 +340,13 @@ https://github.com/user-attachments/assets/011308cb-2ee0-4300-86f9-a54f8d5892a4
 
 
 
-#### 📄https://github.com/user-attachments/files/28303517/Project_Presentation.pdf
+#### 📄[Project_Presentation.pdf](https://github.com/user-attachments/files/28303517/Project_Presentation.pdf)
 
 
 
 #### **Preview-**
 
-**!\[Presentation Slide 1](Presentation/presentation1.png)**
+**<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/54564700-5212-4a77-b61d-1e50d63b5525" />**
 
 
 
