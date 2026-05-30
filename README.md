@@ -321,9 +321,9 @@ High-value Tier-1 cities were most affected:
 
 #### 🔗 **Power BI Live Dashboard-**[**Link**](https://app.powerbi.com/view?r=eyJrIjoiYjhkZGNkYTAtYjI5NC00NDFkLWFhOTctOGMyNzUzMTE0OTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-###### 
 
-#### **📊 Project Walkthrough Video** (https://github.com/Abhilasha-Data-Analyst/Food-Delivery-Startup-Crisis-Impact-Analysis/issues/2#issue-4531329773)
+#### **📊 Project Walkthrough Video**
+https://github.com/user-attachments/assets/011308cb-2ee0-4300-86f9-a54f8d5892a4
 
 
 
