@@ -323,17 +323,25 @@ High-value Tier-1 cities were most affected:
 
 ###### 
 
-### **📊 Project Walkthrough Video**-**\[Watch Dashboard Demo](Dashboard/Dashboard.mp4)**
+### **📊 Project Walkthrough Video**-
+https://github.com/user-attachments/assets/011308cb-2ee0-4300-86f9-a54f8d5892a4
 
 
 
-### 📄 **Project Presentation-(Presentation/Project\_Presentation.pdf)**
+### 📄 **Project Presentation**-
+[Project_Presentation.pdf](https://github.com/user-attachments/files/28418583/Project_Presentation.pdf)
+
 
 
 
 ### **🖼️ Presentation Preview-**
 
-### 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/7634cc62-dfd0-41a1-b829-b4ee6029de25" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/cb73e769-cf50-4430-8818-60ee0bc0e92b" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/7382484c-c098-402e-a769-e4b0059c9639" />
+
 
 #### **Contact**
 
